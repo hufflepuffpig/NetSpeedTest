@@ -8,3 +8,5 @@ Android测试网速的APP
     然后开2个线程，线程A利用java.net的URL类去下载一个文件，例如一张几M大的图片，并且一直修改Info结构体的内容    
     线程B就每1秒读一次结构体的speed来更新UI，思路就这样。
     
+
+![](https://github.com/lin810921141/NetSpeedTest/blob/master/Screenshot_2015-02-15-17-05-51.png)
